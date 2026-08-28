@@ -1,0 +1,20 @@
+
+# Visual Studio temporary and build files
+.vs/
+.packages/
+*/.vs/
+bin/
+*/bin/
+obj/
+*/obj/
+*.user
+*.suo
+*.userosct
+*.sln.docstates
+
+# Binary and native library files
+*.dll
+*.exe
+*.pdb
+x86/
+x64/
